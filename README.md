@@ -1,3 +1,4 @@
 # Shared-Code-Snippets
-A repository for teams to share and collaborate on reusable code snippets. 
+Welcome to our shared code snippets repository! 
+This space is dedicated to sharing and collaborating on reusable code snippets across teams. 
 
